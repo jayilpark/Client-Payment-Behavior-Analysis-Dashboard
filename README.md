@@ -21,6 +21,7 @@ Features:
 - Clean, visual layout to assess client orders and payment behavior & decision-making
 
 📄 Data Source
+
 The primary dataset comes from randomized mock data.
 Dashboard is designed to query data from mock data sheet.
 
