@@ -8,7 +8,7 @@ Author: Jay Park
 
 A sample Excel dashboard designed for Client Payment Behavior Analysis, showcasing key metrics with interactive filtering.
 
-📊 [Download the Sample Dashboard](./Client_Payment_Behavior_Analysis(DashBoard).xlsx)
+📊 [Download the Sample Dashboard](./Client_Payment_Behavior_Dashboard.xlsx)
 
 📁 About This Project:
 
