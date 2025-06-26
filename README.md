@@ -1,8 +1,8 @@
-CLIENT PAYMENT BEHAVIOR ANALYSIS DASHBOARD
 
 Author: Jay Park
-
 Aspiring Data Analyst | Excel Enthusiast | Lifelong Learner
+
+CLIENT PAYMENT BEHAVIOR ANALYSIS DASHBOARD
 
 
 A sample Excel dashboard designed for Client Payment Behavior Analysis, showcasing key metrics with interactive filtering.
