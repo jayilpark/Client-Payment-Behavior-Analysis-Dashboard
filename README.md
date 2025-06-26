@@ -2,6 +2,7 @@ CLIENT PAYMENT BEHAVIOR ANALYSIS DASHBOARD
 
 
 Author: Jay Park
+
  Aspiring Data Analyst | Excel Enthusiast | Lifelong Learner
 
 
