@@ -10,7 +10,8 @@ A sample Excel dashboard designed for Client Payment Behavior Analysis, showcasi
 
 📊 [Download the Sample Dashboard](./Client_Payment_Behavior_Analysis(DashBoard).xlsx)
 
-📁 About This Project
+📁 About This Project:
+
 This project presents an Excel-based dashboard built using mock data to highlight Client Payment Behaviors.
 
 Focus Metrics:
