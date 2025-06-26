@@ -1,6 +1,8 @@
 
 Author: Jay Park
+
 Aspiring Data Analyst | Excel Enthusiast | Lifelong Learner
+
 
 CLIENT PAYMENT BEHAVIOR ANALYSIS DASHBOARD
 
